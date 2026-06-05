@@ -1,0 +1,3 @@
+# Python dependencies for the babysitter daemon + MCP server.
+# Install with:  pip install -r requirements.txt
+mcp>=1.0

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "babysitter": {
+      "type": "stdio",
+      "command": "__PROJECT_DIR__/.venv/bin/python",
+      "args": [
+        "__PROJECT_DIR__/mcp_server/server.py"
+      ],
+      "env": {}
+    }
+  }
+}
